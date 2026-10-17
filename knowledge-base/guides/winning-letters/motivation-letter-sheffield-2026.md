@@ -1,0 +1,20 @@
+---
+university: Sheffield University
+program: MSc Data Science
+application_status: accepted
+writing_status: completed
+---
+
+# Motivation Letter - Sheffield University, MSc Data Science
+
+I am a final-year Computer Science student at [HOME UNIVERSITY], expected to graduate in 2026. Throughout my studies, I have built a strong foundation in software engineering, programming, data structures and algorithms, and database management. These experiences gave me solid technical grounding, but it was my exposure to data science that truly shaped my academic and career direction.
+
+My interest in data science developed through formal training programs that pushed me beyond traditional software development. I first participated in an Advanced Computer Science Program organised by [GOVERNMENT INNOVATION AGENCY] in partnership with [INTERNATIONAL PARTNER UNIVERSITY], which strengthened my algorithmic thinking and problem-solving skills. Later, I completed an intensive Data Science Program by [GOVERNMENT INNOVATION AGENCY], [ORGANIZATION], and [TECH ACADEMY], where I was recognised as a Top 11 performer among participants. As a part of my high achievement, I earned the [CLOUD PROVIDER] Data Science Professional certification, which deepened my understanding of machine learning workflows, model deployment, and cloud-based data infrastructure. These experiences convinced me that I wanted to pursue data science as a career, where I can combine my analytical, data-oriented thinking with my practical problem-solving skills.
+
+This conviction was strengthened during my AI Engineer internship at [GOVERNMENT RESEARCH/INNOVATION CENTER], [HOME COUNTRY]'s Centre for the Fourth Industrial Revolution, from [Start Date] to [End Date]. There, I built a RAG-based legal chatbot for [LEGAL PLATFORM], the government's legal information platform, handling document processing and deploying a full-stack application. I also developed an automated system for generating PDF dashboards from CSV data and created an AI-powered presentation slide generator. Working on real projects for actual users showed me the impact of well-designed data systems and reinforced my desire to gain deeper expertise in the field.
+
+The MSc Data Science at [TARGET UNIVERSITY] appeals to me because of its practical, hands-on approach combined with strong theoretical grounding. The core modules align well with my background and goals -- particularly Database Design, where my cloud certification gives me relevant preparation, and Data and Society, which addresses the ethical considerations I encountered while working with government data. I am also drawn to the Big Data Analytics optional module, because scaling data systems is directly relevant to the document processing challenges I faced during my internship. Moreover, the industry-linked dissertation offers an opportunity to apply what I learn to real-world problems.
+
+After completing the program, I plan to return to [HOME COUNTRY] as part of my scholarship program and contribute to data-driven initiatives at leading organisations in my country. [HOME COUNTRY]'s tech ecosystem is growing, and there is increasing demand for professionals in this field. The MSc at [TARGET UNIVERSITY] would provide me with the formal academic foundation to complement my practical experience and position me to make a meaningful contribution to this developing field in my home country.
+
+**[APPLICANT NAME]**

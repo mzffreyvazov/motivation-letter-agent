@@ -1,0 +1,19 @@
+---
+program: Artificial Intelligence in Computer Science, kaunas University of Technology (KTU)
+application_status: submitted
+writing_status: completed
+---
+
+Dear Admissions Committee,
+
+I am a final-year Computer Science student at [UNIVERSITY], expected to graduate in July 2026. During my undergraduate studies, I was mainly focused on software engineering and building my own ideas. But the real introduction to Artificial Intelligence & Data Science for me was when I got interested and was selected for a Data Science Program organized by [GOVERNMENT INNOVATION AGENCY], [ORGANIZATION], and [TECH ACADEMY]. In that program, I worked rigorously with data science projects, machine learning, and AI for the first time. Towards the end of the program, I realized that the knowledge and the skillset I can gain in this field would be immensely valuable for me. I became particularly interested in the intersection of software engineering and artificial intelligence: building systems that are not only reliable, but also adaptive and intelligent. This combination enables solutions that neither field can achieve independently. Thus, I came to the conclusion that pursuing a Master's in Artificial Intelligence is the next step in building that combined expertise.
+
+During my university years, I joined several extracurricular programs to deepen my skills and knowledge. For example, I completed an Advanced Computer Science Program organized by [GOVERNMENT INNOVATION AGENCY] in partnership with [INTERNATIONAL PARTNER UNIVERSITY], which strengthened my algorithmic foundations. In the Data Science Program, I was recognized as a Top 11 performer and earned the [CLOUD PROVIDER] Data Science Professional certification. During my internship at [GOVERNMENT RESEARCH/INNOVATION CENTER], [HOME COUNTRY]'s Centre for the Fourth Industrial Revolution, I built a RAG-based legal chatbot for [LEGAL PLATFORM], the country's national legal platform, developed an automated PDF dashboard generator from raw CSV data, and created an AI-powered presentation slide tool. Each project required both software engineering and AI skills working together, which reinforced my conviction that this is the direction I want to pursue at a deeper level.
+
+[TARGET UNIVERSITY]'s MSc in Artificial Intelligence in Computer Science fits exactly what I am looking for. The mandatory core modules in Explainable AI and Generative AI show that the program engages with current developments in the field. The three consecutive Research Projects running through Semesters 1 to 3, followed by the Applied Research elective in Semester 3, mean that research is embedded throughout the program. Access to the [AI EXCELLENCE CENTRE] and its HPC infrastructure is also important to me, as computationally intensive work requires proper resources. I am also drawn to [TARGET UNIVERSITY]'s culture of practitioner lecturers—professionals who bring active industry experience into the classroom. Learning from people who are working on real problems will complement the theoretical side of the program well. [TARGET UNIVERSITY]'s startup ecosystem is another crucial factor for me. I am someone who constantly has new ideas to develop and implement, and working around entrepreneurially minded, skilled people is an environment I find immensely valuable and productive. Another important factor to me is that [CITY] has a large international student community, which matters to me personally as an international student.
+
+After graduation, I plan to return to [HOME COUNTRY] and contribute to the country's technology sector, which is growing under the National AI Strategy [YEARS]. There is real demand for professionals who can both design and deploy intelligent systems. The MSc at [TARGET UNIVERSITY] would give me the research depth and technical foundations to do that work well.
+
+Sincerely,
+
+**[APPLICANT NAME]**
